@@ -1,0 +1,10 @@
+#game-screen {
+    padding: 0.2px;
+    border: 20px solid rgb(52, 52, 52);
+    border-radius: 5%;
+}
+
+#score-caption {
+    margin: 20px;
+    text-align: center;
+}
